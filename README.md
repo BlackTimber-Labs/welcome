@@ -16,7 +16,7 @@ Checkout [here](https://github.com/BlackTimber-Labs/join-us) For More Informatio
 Join our community discord server [here](https://discord.gg/up4JGVbZ8G).
 
 ## ✔️ Code Of Conduct
-Read the code of conduct carefully [here]().
+Read the code of conduct carefully [here](https://github.com/BlackTimber-Labs/join-us/blob/main/CODE_OF_CONDUCT.md).
 
 ## 🌐 Community Website
 Checkout our website [BlackTImber Labs](https://blacktimberlabs.xyz/).
